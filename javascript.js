@@ -1,1 +1,2 @@
-var x = 'widget'
+var x = 'widget';
+var uasdf = 'the real idget'
